@@ -4,12 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Instructor
+#### ajasjd
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Freelance project
+#### Autonomous Intelligent Vehicle
+
+
+#### WEB
+
+
+#### POS
+
+
+#### TSC
+
+
+### Work experience
+
+# BT
+
+## RU
+
+
+### Education
+* Bachelor 
+* Master
+* Doctoral
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sarucha.y@gmail.com](mailto:sarucha.y@gmail.com)
