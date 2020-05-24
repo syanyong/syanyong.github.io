@@ -35,6 +35,14 @@ permalink: /about/
 * Doctoral of Electrical Engineering (Studying)
 
 
+
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
+
 # Contact me
 
 [sarucha.y@gmail.com](mailto:sarucha.y@gmail.com)
