@@ -32,15 +32,8 @@ permalink: /about/
 | Field                       | Thesis                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------|
 | Control System Optimization | Hybrid Impedance force controller using Bang-Bang and Particle Swarm Optimization Approach |
+
 * Doctoral of Electrical Engineering (Studying)
-
-
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 
 
 # Contact me
