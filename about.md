@@ -4,35 +4,47 @@ title: About
 permalink: /about/
 ---
 
-### Instructor
-#### ajasjd
+# Instructor
+## Introduction to Engineering Programming
+## Microprocessor and Interface
+## Computer Vision
+## Mobile Robot
+
+# Project
+## Autonomous Intelligent Vehicle
+Robot Operating System (ROS)
+
+## Automation Dashboard
+Qt C++
+
+## Web
 
 
-### Freelance project
-#### Autonomous Intelligent Vehicle
+## Point of sales
+AngularJS
+
+## HSA Inspection
 
 
-#### WEB
+
+# Work experience
+
+## Application Engineer, Bombardier Transportation (Signal)
+
+## Research Assistant, Control System and Research Unit (CSRU)
 
 
-#### POS
+# Education
+* Bachelor of Mechatronics Engineering
+* Master of Electrical Engineering
+|  A |  C |
+|  B |  D |
+  > Field: 
+
+  > Thesis: Hybrid Impedance force controller using Bang-Bang and Particle Swarm Optimization Approach
+* Doctoral of Electrical Engineering (Studying)
 
 
-#### TSC
-
-
-### Work experience
-
-# BT
-
-## RU
-
-
-### Education
-* Bachelor 
-* Master
-* Doctoral
-
-### Contact me
+# Contact me
 
 [sarucha.y@gmail.com](mailto:sarucha.y@gmail.com)
