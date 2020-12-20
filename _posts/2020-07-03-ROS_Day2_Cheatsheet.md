@@ -77,7 +77,7 @@ if __name__ == '__main__':
 ```
 
 
-## Example sourcecode for Publish and Subscrib assignment 
+## Example sourcecode for Publish and Subscribe assignment 
 ```
 #!/usr/bin/env python
 import rospy
