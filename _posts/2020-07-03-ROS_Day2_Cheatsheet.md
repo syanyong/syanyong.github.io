@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
 
 ## Example sourcecode for Publish and Subscribe assignment 
-```
+``` python
 #!/usr/bin/env python
 import rospy
 from geometry_msgs.msg import Twist
