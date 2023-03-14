@@ -11,7 +11,7 @@ https://github.com/syanyong/syanyong.github.io
 ```
 bundle exec jekyll serve
 bundle exec jekyll serve --livereload
-bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build
 ```
 
 
