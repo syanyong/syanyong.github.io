@@ -12,6 +12,7 @@ https://github.com/syanyong/syanyong.github.io
 bundle exec jekyll serve
 bundle exec jekyll serve --livereload
 JEKYLL_ENV=production bundle exec jekyll build
+open $(bundle info --path minima)
 ```
 
 
