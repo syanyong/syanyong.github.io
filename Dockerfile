@@ -10,11 +10,20 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 # Set up GEM_HOME and update PATH
-RUN echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc && \
-    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc && \
-    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc && \
-    # Source bashrc for current session and install specific version of Jekyll and Bundler
-    /bin/bash -c "source ~/.bashrc && gem install jekyll bundler"
+ENV GEM_HOME="/usr/local/bundle"
+ENV PATH="$GEM_HOME/bin:$PATH"
 
-# Default command (can be changed based on your needs)
-CMD ["irb"]
+# Create a working directory
+WORKDIR /app
+
+# Copy Gemfile and Gemfile.lock before running bundle install to leverage Docker caching
+COPY Gemfile Gemfile.lock /app/
+
+# Install Bundler and Jekyll based on the Gemfile
+RUN gem install bundler && bundle install
+
+# Copy the rest of the application files
+COPY . /app
+
+# Default command to run Jekyll
+# CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
