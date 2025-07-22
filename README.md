@@ -22,7 +22,7 @@ git submodule update --init --recursive
 docker compose up --build -d
 
 # Start an interactive session in the running container
-docker exec -it ruby_jekyll_container /bin/bash
+docker exec -it jekyll-site-container /bin/bash
 
 # Install bundle dependencies if needed
 bundle install
