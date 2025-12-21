@@ -77,7 +77,7 @@ B.Eng., Mechatronics Engineering, King Mongkut's Institute of Technology Ladkrab
 
 ## Background
 
-Holding a D.Eng. in Electrical Engineering, I currently serve as a full-time lecturer at King Mongkut’s Institute of Technology Ladkrabang (KMITL). My professional identity is defined by three converging roles: researcher, lecturer, and developer. My academic research centers on Intelligent Control and AI/ML adoption for manufacturing, while my industrial specialization lies in Software Development and Engineering Consultancy. I possess specific expertise in complex system integration, the critical intersection where networking, embedded systems, software, sensors, actuators, and control systems meet.
+Holding a D.Eng. in Electrical Engineering, I currently serve as a full-time lecturer at King Mongkut’s Institute of Technology Ladkrabang (KMITL) since June 2023. My professional identity is defined by three converging roles: researcher, lecturer, and developer. My academic research centers on Intelligent Control and AI/ML adoption for manufacturing, while my industrial specialization lies in Software Development and Engineering Consultancy. I possess specific expertise in complex system integration, the critical intersection where networking, embedded systems, software, sensors, actuators, and control systems meet.
 
 In my teaching capacity, I lead courses in Artificial Intelligence for graduate students, Microprocessors & Interface, Advanced Computer Programming (covering full-stack development, databases, and Containerization), and Mobile Robotics (ROS).
 
