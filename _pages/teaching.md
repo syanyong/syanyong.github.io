@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: courses, lectures, and invited talks
 nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Current Courses (2023 - Present)
 
-Organize your courses by years, topics, or universities, however you like!
+- **01407202: ARTIFICIAL INTELLIGENCE** (Graduate Course)
+- **01416614: ADVANCED COMPUTER PROGRAMMING**
+- **01416318: MICROPROCESSOR AND INTERFACE**
+- **01416511: MOBILE ROBOTS**
+- **01416516: ROBOTICS LAB 3** Topic: TinyML
+
+## Previous Courses
+
+- **01416316: COMPUTER PROGRAMMING FOR RAI** (2019-2023)
+- **01416515: ROBOTICS LAB 2** Topic: Mobile Robotics (2019–2023)
+- **01416518: INDUSTRIAL AUTOMATION** (2019-2023)
+- **01416500: COMPUTER VISIONS** (2019-2020)
