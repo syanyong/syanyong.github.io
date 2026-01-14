@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Thainame ศรุชา ยรรยง
-
+subtitle: Sarucha Yanyong, Ph.D.
 profile:
   align: right
   image: sy_pic.jpg
@@ -37,22 +36,23 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- <p>Hello! I'm Sy A. Yanyong, a researcher at the School of Engineering. My work focuses on innovative solutions in engineering and technology. Feel free to reach out to me for collaborations or inquiries.</p> -->
 
-Department of Robotics and AI Engineering,
-School of Engineering,
-King Mongkut's Institute of Technology Ladkrabang (KMITL),
+<!-- Assistant Professor<br>-->
+Asst. Prof. Dr. Sarucha Yanyong (ผศ.ดร. ศรุชา ยรรยง)<br>
+Assistant Professor, Department of Robotics and AI Engineering,<br> 
+School of Engineering,<br>
+King Mongkut's Institute of Technology Ladkrabang (KMITL),<br>
 1 Chalong Krung, 1 Alley, Lat Krabang, Bangkok,
-Thailand
+Thailand<br>
 email: sarucha.ya@kmitl.ac.th
 
 ## Biography
 
-Sarucha Yanyong serves as a Lecturer in the Department of Robotics and AI, School of Engineering, King Mongkut’s Institute of Technology Ladkrabang (KMITL), a position he has held since June 2023. His research focuses on industrial robotics, mobile robotics, and intelligent control. He earned a D.Eng. in Electrical Engineering in 2023, supported by the Thailand Research Fund (TRF) through the Research and Researchers for Industries (RRI) grant, and was a Visiting Research Student at the Multimedia Computing Systems Laboratory (MCSLab), Sungkyunkwan University (SKKU), in Seoul, South Korea. This followed an M.Eng. in Electrical Engineering (2014) and a B.Eng. in Mechatronics Engineering (2012) from KMITL.
-
-Prior to his academic career, he gained nearly five years of experience in railway signaling (software development) as an Application Engineer at Bombardier Transportation Signal (Thailand) Limited, now part of ALSTOM. In addition to his role as a researcher, he works as a software engineering consultant with expertise in deploying IT/OT solutions for automation and intelligent manufacturing.
+Sarucha Yanyong is an Assistant Professor in the Department of Robotics and AI, School of Engineering, King Mongkut's Institute of Technology Ladkrabang (KMITL), having joined the faculty in June 2023. His research focuses on industrial robotics, mobile robotics, and intelligent control. Professionally, he is a software engineering consultant with expertise in deploying IT/OT solutions for automation and intelligent manufacturing. He earned a D.Eng. in Electrical Engineering in 2023, supported by the Thailand Research Fund (TRF) through the Research and Researchers for Industries (RRI) grant, and was a Visiting Research Student at the Multimedia Computing Systems Laboratory (MCSLab), Sungkyunkwan University (SKKU), in Seoul, South Korea. He has five years of experience in railway signaling software development as an Application Engineer at Bombardier Transportation Signal, now part of ALSTOM. He also holds an M.Eng. in Electrical Engineering (2014) and a B.Eng. in Mechatronics Engineering (2012) from KMITL.
 
 
 ## Professional Experience
-2023.06 – current: Lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
+2024.10 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
+2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
 2023.01 – 2023.03: Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank">**MCSLab**</a>)<br>
 2019.08 – 2022.12: Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang<br>
 2019.06 – 2021.11: Software Engineer, Foster Engineering Co., Ltd. (Remote Project-Based Role)<br>
@@ -77,7 +77,7 @@ B.Eng., Mechatronics Engineering, King Mongkut's Institute of Technology Ladkrab
 
 ## Background
 
-Holding a D.Eng. in Electrical Engineering, I currently serve as a full-time lecturer at King Mongkut’s Institute of Technology Ladkrabang (KMITL) since June 2023. My professional identity is defined by three converging roles: researcher, lecturer, and developer. My academic research centers on Intelligent Control and AI/ML adoption for manufacturing, while my industrial specialization lies in Software Development and Engineering Consultancy. I possess specific expertise in complex system integration, the critical intersection where networking, embedded systems, software, sensors, actuators, and control systems meet.
+Holding a D.Eng. in Electrical Engineering, I currently serve as a full-time Assistant Professor at King Mongkut's Institute of Technology Ladkrabang (KMITL) since October 2024, having joined as a full-time lecturer in June 2023. My professional identity is defined by three converging roles: researcher, lecturer, and developer. My academic research centers on Intelligent Control and AI/ML adoption for manufacturing, while my industrial specialization lies in Software Development and Engineering Consultancy. I possess specific expertise in complex system integration, the critical intersection where networking, embedded systems, software, sensors, actuators, and control systems meet.
 
 In my teaching capacity, I lead courses in Artificial Intelligence for graduate students, Microprocessors & Interface, Advanced Computer Programming (covering full-stack development, databases, and Containerization), and Mobile Robotics (ROS).
 
