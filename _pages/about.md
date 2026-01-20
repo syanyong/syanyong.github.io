@@ -68,9 +68,9 @@ B.Eng., Mechatronics Engineering, King Mongkut's Institute of Technology Ladkrab
 <br>
 
 ## Awards and Scholarships
-- **Won 1st prize** on RoboCup Japan Open 2024, Logistics League.
-- **Best Paper Award** at The 2023 IAENG International Conference on Electrical Engineering for "A Novel Robust Adaptive Control for PMDC Servo Motor Incorporating Recursive Least Square and Particle Swarm Optimization."
-- Won **1st prize** in the Mobile Robot for Logistics Major League at the Roboinnovator Challenge 2023, Software Park, NSTDA, Thailand.
+- [**Won 1st prize**](https://web.archive.org/web/20251010084855/https://www.robocup.or.jp/JapanOpen2024/) <i class="fas fa-external-link-alt"></i> on RoboCup Japan Open 2024, Logistics League.
+- [**Best Paper Award**](https://web.archive.org/web/20260120154927/https://www.iaeng.org/IMECS2023/Best_paper_awards.html) <i class="fas fa-external-link-alt"></i> at The 2023 IAENG International Conference on Electrical Engineering for "A Novel Robust Adaptive Control for PMDC Servo Motor Incorporating Recursive Least Square and Particle Swarm Optimization."
+- Won [**1st prize**](https://web.archive.org/web/20231003184311/https://www.nstda.or.th/home/news_post/pr-nstda-robo-innovator-challenge-2023/) <i class="fas fa-external-link-alt"></i> in the Mobile Robot for Logistics Major League at the Roboinnovator Challenge 2023, Software Park, NSTDA, Thailand. [[News]](https://web.archive.org/web/20230913024517/https://www.matichon.co.th/publicize/news_4174569) <i class="fas fa-external-link-alt"></i>
 - **Gold Award** in the IoT Device category at the 18th Asian Conference on Computer-Aided Surgery and Medicine 2022 (ACCAS 2022), for "Digital Health Innovation: Development of an IoT-based Oxygen High Flow Device."
 - Graduate **Scholarship**, Thailand Research Fund (TRF), 2019.
 - Outstanding Service **Award**, university-nominated award for Vice President of the Robot Club, KMITL (2010).
