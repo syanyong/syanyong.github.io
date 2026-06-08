@@ -24,7 +24,7 @@ nav_order: 6
 
 
 ## Invited Speaker & Professional Training Experience
-- **2026** Invited Lecturer, *“Predictive Maintenance & Agentic AI”* (3 cohorts: Mar 21-22, Apr 6-7, Apr 29-30), Intelligent Automation Skills Development Project, depa Digital Manpower Fund
+- **2026** Invited Lecturer, *“Predictive Maintenance & Agentic AI”* (3 cohorts: Mar 21-22, Apr 6-7, Apr 29-30), Intelligent Automation Skills Development Project, depa Digital Manpower Fund <a href="{{ '/assets/img/depa_2026.jpg' | relative_url }}" target="_blank" title="View Photo" class="ml-1" style="color: #007bff;"><i class="fas fa-image"></i></a>
 - **2025** Invited Lecturer, AI/ML Training Program for Machine Learning and Semiconductor Workforce Development (บพค.)
 - **2025** Invited Lecturer, AI/ML and Large Language Models (LLMs), Seagate Technology (Thailand)
 - **2025** Invited Speaker, *“AI Visionaries: Leading the Future of Intelligence for Executive Dialogue”*, Datalytics.ai, Malaysia Digital
