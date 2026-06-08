@@ -51,8 +51,8 @@ Sarucha Yanyong is an Assistant Professor in the Department of Robotics and AI, 
 
 
 ## Professional Experience
-2024.10 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
-2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
+2026.01 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
+2023.06 – 2026.01: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
 2023.01 – 2023.03: Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank">**MCSLab**</a>)<br>
 2019.08 – 2022.12: Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang<br>
 2019.06 – 2021.11: Software Engineer, Foster Engineering Co., Ltd. (Remote Project-Based Role)<br>
