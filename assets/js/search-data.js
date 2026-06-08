@@ -474,6 +474,16 @@ ninja.data = [{
           description: "Machine vision system for hard disk drive head stack assembly inspection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_visual_inspection/";
+            },},{id: "projects-satu-agentic-physical-ai-for-human-friends",
+          title: 'SATU: Agentic Physical AI for Human Friends',
+          description: "An intelligent, autonomous mobile robot designed to serve as a receptionist and human assistant. Built as a research agentic system, it integrates custom tools and Model Context Protocol (MCP) to provide the LLM with a physical, human-like embodiment capable of natural Thai conversation, real-time human detection, and safe autonomous navigation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_satu_physical_ai/";
+            },},{id: "projects-risa-a-human-engaging-agentic-robotic-interactive-assistant",
+          title: 'RISA: A Human-Engaging Agentic Robotic Interactive Assistant',
+          description: "An interactive robotic assistant tailored for guided lab tours, built from scratch using a prototype robot from the RoboCup Japan Open 2024, Logistics League. RISA is a research agentic framework that leverages custom tools and Model Context Protocol (MCP) to give the LLM a physical presence. It combines Retrieval-Augmented Generation (RAG) with facial recognition for personalized, highly accurate human engagement.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_risa_interactive_robot/";
             },},{
         id: 'social-cv',
         title: 'CV',
