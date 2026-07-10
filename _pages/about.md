@@ -43,7 +43,10 @@ School of Engineering,<br>
 King Mongkut's Institute of Technology Ladkrabang (KMITL),<br>
 1 Chalong Krung, 1 Alley, Lat Krabang, Bangkok,
 Thailand<br>
-email: sarucha.ya@kmitl.ac.th
+email: sarucha.ya@kmitl.ac.th<br>
+<a href="https://scholar.google.com/citations?user=_sLWkcgAAAAJ&hl=en" target="_blank" title="Google Scholar">
+  <img src="{{ '/assets/img/google-scholar-logo.svg' | relative_url }}" alt="Google Scholar" style="width: 1.2rem; height: 1.2rem; vertical-align: text-bottom;">
+</a>
 
 ## Biography
 
@@ -51,8 +54,10 @@ Sarucha Yanyong is an Assistant Professor in the Department of Robotics and AI, 
 
 
 ## Professional Experience
-2026.01 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
-2023.06 – 2026.01: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
+2024.10 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
+2026.03 – 2026.09: Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Ltd., Teparak Plant, Triple Helix Project (PMU-B & KMITL Collaboration)<br>
+2025.09 – 2025.11: Visiting Researcher, Wafer Process Technology Training, Seagate Technology, Springtown Site, Northern Ireland, United Kingdom, Triple Helix Project (PMU-B & KMITL Collaboration), Year 1<br>
+2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
 2023.01 – 2023.03: Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank">**MCSLab**</a>)<br>
 2019.08 – 2022.12: Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang<br>
 2019.06 – 2021.11: Software Engineer, Foster Engineering Co., Ltd. (Remote Project-Based Role)<br>
@@ -94,4 +99,3 @@ After leaving the railway industry, I decided to take on a new challenge by work
 
 ## Selected Publications
 {% include selected_papers.liquid %}
-
