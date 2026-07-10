@@ -22,8 +22,8 @@ nav_order: 6
 - **01416518: INDUSTRIAL AUTOMATION** (2019-2023)
 - **01416500: COMPUTER VISIONS** (2019-2020)
 
-
 ## Invited Speaker & Professional Training Experience
+- **2026.06** Invited Lecturer, Machine Vision Training, THAI-SMART Triple Helix Project (PMU-B, Seagate, and School of Engineering, KMITL)
 - **2026** Invited Lecturer, *“Predictive Maintenance & Agentic AI”* (3 cohorts: Mar 21-22, Apr 6-7, Apr 29-30), Intelligent Automation Skills Development Project, depa Digital Manpower Fund <a href="{{ '/assets/img/depa_2026.jpg' | relative_url }}" target="_blank" title="View Photo" class="ml-1" style="color: #007bff;"><i class="fas fa-image"></i></a>
 - **2025** Invited Lecturer, AI/ML Training Program for Machine Learning and Semiconductor Workforce Development (บพค.)
 - **2025** Invited Lecturer, AI/ML and Large Language Models (LLMs), Seagate Technology (Thailand)
@@ -37,4 +37,3 @@ nav_order: 6
 - **2020** Invited Lecturer, Non-Degree Program: Mobile Robot, in Robotics and AI Engineering, School of Engineering, KMITL.
 - **2020** Invited Lecturer, Computer Vision Training, Hutchison Ports Thailand
 - **2020** Invited Lecturer, Internet of Things (IoT) Training, Hutchison Ports Thailand
-
