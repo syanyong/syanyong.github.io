@@ -1,97 +1,260 @@
+# Profile image for the generated CV PDF: /assets/img/cv-profile-2026.png
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Asst. Prof. Dr. Sarucha Yanyong
+    - name: Title
+      value: Lecturer
+    - name: Department
+      value: Department of Robotics and AI, School of Engineering
+    - name: Institution
+      value: King Mongkut's Institute of Technology Ladkrabang
+    - name: Email
+      value: sarucha.ya@kmitl.ac.th
+    - name: Website
+      value: https://syanyong.github.io
+    - name: Nationality
+      value: Thai
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 2 January 1990
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Department of Robotics and AI, School of Engineering, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand
+      year: 2026.01 - Present
+    - title: Industrial Consultant (Agentic AI Systems)
+      institution: Seagate Technology (Thailand) Ltd., Teparak Plant
+      year: 2026.03 - 2026.09
+      description:
+        - Triple Helix Project (PMU-B & Seagate & KMITL Collaboration)
+    - title: Visiting Researcher, Wafer Process Technology Training
+      institution: Seagate Technology, Springtown Site, Northern Ireland, United Kingdom
+      year: 2025.09 - 2025.11
+      description:
+        - Triple Helix Project (PMU-B & Seagate & KMITL Collaboration), Year 1
+    - title: Full-time Lecturer
+      institution: Department of Robotics and AI, School of Engineering, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand
+      year: 2023.06 - 2026.01
+      description:
+        - "Courses taught: ARTIFICIAL INTELLIGENCE (Graduate program), MOBILE ROBOTS, MICROPROCESSOR AND INTERFACE, and ADVANCED COMPUTER PROGRAMMING."
+    - title: Visiting Researcher
+      institution: Multimedia Computing Systems Laboratory, Sungkyunkwan University (SKKU), Seoul, Republic of Korea
+      year: 2022.12 - 2023.03
+    - title: Adjunct Lecturer and Researcher
+      institution: King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand
+      year: 2019.08 - 2022.12
+      description:
+        - "Courses taught: Computer Programming and Mobile Robot."
+    - title: Software Engineer/Consultant
+      institution: Foster Engineering Co., Ltd., Bangkok, Thailand
+      year: 2020.11 - 2022.10
+      description:
+        - "Developed web-based inventory management and data analytics systems for chemical manufacturing clients, including Unilever."
+        - "Consulted on Docker-based deployment, data-transformation pipelines, and machine learning-based predictive control."
+        - "Technologies: SAP, Docker, MongoDB, Microsoft SQL Server, PostgreSQL, NodeJS, Python, ReactJS, Windows Server, VMware vSphere, Wonderware InBatch, and SCADA platforms."
+    - title: Application Engineer
+      institution: Bombardier Transportation Signal Thailand Ltd. (now ALSTOM)
+      year: 2014.10 - 2019.02
+      description:
+        - "Developed a Python-based automated testing framework for interlocking applications."
+        - "Work package leader for Interlocking Application Development under the CITYFLO650 moving-block solution."
+        - "Projects: MRT Purple Line (CITYFLO650), Thailand; BTS Green Line Extension (CITYFLO450), Thailand; Durban Re-signalling (CITYFLO200), South Africa; and Rail Systems Alliance CITYFLO650, Melbourne, Australia."
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "Experimental realization of PSO-based hybrid adaptive sliding mode control for force impedance control systems"
+      institution: "Sarucha Yanyong and Somyot Kaitwanidvilai. Results in Control and Optimization, 19, 100548."
+      year: 2025
+    - title: "Localization for Outdoor Mobile Robot Using LiDAR and RTK-GNSS/INS"
+      institution: "Thepsit Thepsit, Poom Konghuayrob, Anakkapon Saenthon, and Sarucha Yanyong. Sensors and Materials, 36(4), 1405-1418."
+      year: 2024
+    - title: "Hybrid Deep Learning and FAST-BRISK 3D Object Detection Technique for Bin-picking Application"
+      institution: "Taweesoontorn Taweesoontorn, Sarucha Yanyong, and Poom Konghuayrob. Sensors and Materials, 36(4), 1389-1404."
+      year: 2024
+    - title: "Autonomous Modular Harvesting System for Vertical Aeroponic Farming"
+      institution: "Asnapetch Panit, Ruangrit Chalermpong, Tongsri Napat, Dissanayaka Supuni, and Sarucha Yanyong. IEEE ROBIO 2023."
+      year: 2023
+    - title: "A Novel Robust Adaptive Control for PMDC Servo Motor Incorporating Recursive Least Square and Particle Swarm Optimization"
+      institution: "Sarucha Yanyong and Somyot Kaitwanidvilai. IMECS 2023."
+      year: 2023
+    - title: "Adaptive Force Control Using a Standard Deviation-based Hybrid Approach"
+      institution: "Maethinee Songthai, Sarucha Yanyong, and Somyot Kaitwanidvilai. IMECS 2023."
+      year: 2023
+    - title: "Energy Prediction of Cleanroom-type Differential Drive Mobile Robot Based on Recurrent Neural Network"
+      institution: "Sarucha Yanyong, Poom Konghuayrob, and Somyot Kaitwanidvilai. Sensors and Materials, 35."
+      year: 2023
+    - title: "Sensor Fusion of Light Detection and Ranging and iBeacon to Enhance Accuracy of Autonomous Mobile Robot in Hard Disk Drive Clean Room Production Line"
+      institution: "Sarucha Yanyong, Somyot Kaitwanidvilai, Rattapoohm Parichatprecha, and Poom Konghuayrob. Sensors and Materials, 35."
+      year: 2023
+    - title: "PSO based adaptive force controller"
+      institution: "Somyot Kaitwanidvilai, Sarucha Yanyong, and Anakkapon Saenthon. IMECS 2013."
+      year: 2013
+    - title: "Hybrid adaptive impedance force controller using bang-bang and particle swarm optimization approaches"
+      institution: "Sarucha Yanyong and Somyot Kaitwanidvilai. IEEE-ROBIO 2011."
+      year: 2011
+
+- title: Awards and Scholarships
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - "Won 1st prize, Japan RoboCup Logistics League."
+    - year: 2023
+      items:
+        - "Best Paper Award, 2023 IAENG International Conference on Electrical Engineering."
+        - "Won 1st prize and best technique, Mobile Robot for Logistics Major League, Roboinnovator Challenge 2023."
+    - year: 2022
+      items:
+        - "Gold Award, IoT Device category, 18th Asian Conference on Computer Aided Surgery and Medicine (ACCAS 2022), for the IoT-based Oxygen High Flow device."
+    - year: 2019
+      items:
+        - "Graduate Scholarship, Thailand Research Fund (TRF)."
+    - year: 2010
+      items:
+        - "Outstanding Service Award, university-nominated award for Vice President of Robot Club, Faculty of Engineering, KMITL."
+
+- title: Invited Speaker and Professional Training Experience
+  type: time_table
+  contents:
+    - title: "Invited Lecturer, Machine Vision Training"
+      institution: "THAI-SMART Triple Helix Project (PMU-B, Seagate, and School of Engineering, KMITL)"
+      year: 2026.06
+    - title: "Invited Lecturer, Predictive Maintenance & Agentic AI"
+      institution: "Intelligent Automation Skills Development Project, depa Digital Manpower Fund"
+      year: 2026
+      description:
+        - "Three cohorts: Mar 21-22, Apr 6-7, and Apr 29-30."
+    - title: "Invited Lecturer, AI/ML Training Program for Machine Learning and Semiconductor Workforce Development"
+      institution: PMU-B
+      year: 2025
+    - title: "Invited Lecturer, AI/ML and Large Language Models (LLMs)"
+      institution: "Seagate Technology (Thailand)"
+      year: 2025
+    - title: "Invited Speaker, AI Visionaries: Leading the Future of Intelligence for Executive Dialogue"
+      institution: "Datalytics.ai, Malaysia Digital"
+      year: 2025
+    - title: "Invited Speaker, Application of AI and Robotics Tools in Education"
+      institution: "Coding Thailand Project, Digital Economy Promotion Agency (depa), Lower Northern Region, Phitsanulok"
+      year: 2025
+    - title: "Invited Lecturer, Mobile Robot Training"
+      institution: "ROS Thailand Open"
+      year: 2025
+    - title: "Invited Speaker, Smart City Forum: Innovative and Livable City for All"
+      institution: "Ministry of Higher Education, Science, Research and Innovation (MHESI) and Bangkok Metropolitan Administration"
+      year: 2024
+    - title: "Invited Lecturer, Edge AI Workshop"
+      institution: "Arduino Day 2024"
+      year: 2024
+    - title: "Invited Lecturer, Autonomous Mobile Robot Fundamentals (Secondary Education Level)"
+      institution: "Maker Lab, CIC Skill Development and Learning Center, Phuket"
+      year: 2024
+    - title: "Invited Lecturer, Image Processing and AI Training"
+      institution: "Provincial Police Region 2"
+      year: 2023
+    - title: "Invited Lecturer, Non-Degree Program: Mobile Robot"
+      institution: "Robotics and AI Engineering, School of Engineering, KMITL"
+      year: 2020
+    - title: "Invited Lecturer, Computer Vision Training"
+      institution: "Hutchison Ports Thailand"
+      year: 2020
+    - title: "Invited Lecturer, Internet of Things (IoT) Training"
+      institution: "Hutchison Ports Thailand"
+      year: 2020
+
+- title: Research and Development Project Experiences
+  type: time_table
+  contents:
+    - title: "Machine Learning-Assisted Pet Food Vending Machine"
+      institution: "Funded by King Mongkut's Institute of Technology Ladkrabang. Role: AI Researcher."
+      year: 2023 - 2024
+    - title: "Intelligent Anti-robbery Police System in Chachoengsao"
+      institution: "Funded by Program Management Unit Competitiveness (PMUC). Role: AI Researcher."
+      year: 2023 - 2024
+    - title: "Development of Smart and Green Damping Block for Noise Reduction of Railway Track (Eco-Smart Damping Block)"
+      institution: "Funded by Program Management Unit Competitiveness (PMUC). Role: Researcher (IoT and Smart System)."
+      year: 2022 - 2023
+    - title: "The Autonomous Food Serving Robot on Train"
+      institution: "Funded by Program Management Unit Competitiveness (PMUC). Role: Researcher (Mobile Robotics)."
+      year: 2022 - 2023
+    - title: "IoT-based Oxygen High Flow device"
+      institution: "Funded by Thailand National Metal and Materials Technology Center (MTEC). Role: Researcher (Embedded System and Backend)."
+      year: 2020 - 2021
+    - title: "Smart vaccine inventory system"
+      institution: "Funded by Ministry of Public Health of Thailand. Role: Researcher (Software Developer)."
+      year: 2020 - 2021
+    - title: "Autonomous UVC robot for COVID-19 sanitizing"
+      institution: "Funded by KMITL Research and Innovation Services (KRIS). Role: Researcher (Mobile Robotics)."
+      year: 2021
+    - title: "The Autonomous Food Serving Robot for COVID-19 patients"
+      institution: "Funded by KMITL Research and Innovation Services (KRIS). Role: Researcher (Mobile Robotics)."
+      year: 2020
+    - title: "Cycle time improvement on press machine with adaptive robot system"
+      institution: "Funded by Yarnapund PCL and Thailand Research Fund (TRF). Role: Researcher (Computer vision and IoT system)."
+      year: 2019
+    - title: "Cassava starch packing improvement with the adaptive palletizing robot system"
+      institution: "Funded by Northeastern Starch (1987) Co., Ltd. and Thai Research Fund (TRF). Role: Researcher (Control system)."
+      year: 2019
+    - title: "Articulated robot for a car's window drive cable assembly machine"
+      institution: "Funded by Thai Steel Cable PC (TSC) and National Science and Technology Development Agency (NSTDA). Role: Researcher (IoT system)."
+      year: 2019
+    - title: "Autonomous Intelligent Vehicle for cleanroom type"
+      institution: "Funded by Seagate Technology (Thailand) Ltd. and Thai Research Fund (TRF). Role: Researcher (ROS GUI part)."
+      year: 2015 - 2019
+    - title: "Visual inspection system for HSA Metrology"
+      institution: "Funded by Seagate Technology (Thailand) Ltd. Role: Researcher (Computer vision)."
+      year: 2014
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: "Doctor of Engineering (D.Eng.) in Electrical Engineering"
+      institution: "King Mongkut's Institute of Technology Ladkrabang"
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "GPA: 4.00 (Outstanding)"
+        - "Thesis: Dynamic Energy Efficient Path Planning for Multiple Automatic Intelligent Vehicles in Hard Disk Drive Manufacture."
+    - title: "Master of Engineering (M.Eng.) in Electrical Engineering"
+      institution: "King Mongkut's Institute of Technology Ladkrabang"
+      year: 2012 - 2014
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        # - "GPA: 4.00 (Outstanding)"
+        - "Thesis: Hybrid Impedance Force Controller using Bang-bang and Particle Swarm Optimization Approach."
+    - title: "Bachelor of Engineering (B.Eng.) in Mechatronics Engineering"
+      institution: "King Mongkut's Institute of Technology Ladkrabang"
+      year: 2008 - 2012
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        # - "GPA: 3.13"
+        - "Vice-president of Robot Club KMITL batch #13."
+        - "Internship program at Seagate Technology (Thailand) Co., Ltd."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: "Software frameworks and libraries"
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - ".NET Framework, NodeJS, ReactJS, NextJS, ElectronJS, FastAPI, Qt, Robot Operating System (ROS), PyTorch, TensorFlow, YOLO, pandas, and XGBoost."
+    - title: "Programming languages"
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - "C, C++, C#, Python, JavaScript, and HTML."
+    - title: "Databases"
+      items:
+        - "Microsoft SQL Server, MySQL, PostgreSQL, OpenSearch, and MongoDB."
+    - title: "DevOps tools"
+      items:
+        - "Docker, GitLab CI/CD, GitHub Actions, and VMware ESXi."
+    - title: "Data communication"
+      items:
+        - "MODBUS Protocol, TCP/IP, Serial, I2C, SPI, and OneWire."
+    - title: "Embedded platforms"
+      items:
+        - "Raspberry Pi 3, BeagleBone Black, STM32, dsPIC, Arduino, and Controllino Arduino for Industrial."
+    - title: "Operating systems"
+      items:
+        - "Windows Server (2003, 2008, 2012) and Ubuntu."
+    - title: "Other software and tools"
+      items:
+        - "Wonderware InBatch, MATLAB, and Power BI."
