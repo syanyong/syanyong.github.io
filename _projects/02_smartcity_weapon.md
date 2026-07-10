@@ -2,7 +2,7 @@
 layout: page
 title: SmartCity ML for Weapon Detection (2022 - 2023)
 description: Machine learning system for weapon detection in smart city applications
-img: 
+img:
 importance: 2
 category: work
 owner: PMU-A

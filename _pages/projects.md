@@ -11,6 +11,7 @@ nav_order: 3
 
 {% assign capstones = site.projects | where: "category", "capstone" | sort: "year" | reverse %}
 {% for project in capstones %}
+
 <div class="card hoverable mb-4">
   <div class="card-body">
     <div class="row">
@@ -55,6 +56,7 @@ nav_order: 3
 
 {% assign work_projects = site.projects | where_exp: "item", "item.category != 'capstone'" | sort: "year" | reverse %}
 {% for project in work_projects %}
-* [{{ project.title }}]({{ project.url | relative_url }}){% if project.owner %}, **{{ project.owner }}**{% endif %}  
-  {{ project.description }}
-{% endfor %}
+
+- [{{ project.title }}]({{ project.url | relative_url }}){% if project.owner %}, **{{ project.owner }}**{% endif %}  
+   {{ project.description }}
+  {% endfor %}

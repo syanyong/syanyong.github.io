@@ -2,7 +2,7 @@
 layout: page
 title: The Autonomous Food Serving Robot for COVID-19 patients (2020)
 description: Contactless food serving robot for COVID-19 patient care
-img: 
+img:
 importance: 9
 category: work
 owner: MTEC

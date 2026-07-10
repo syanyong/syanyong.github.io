@@ -2,7 +2,7 @@
 layout: page
 title: IoT based railway monitoring system (2022 - 2023)
 description: IoT-based monitoring and management system for railway infrastructure
-img: 
+img:
 importance: 3
 category: work
 owner: PMU-C

@@ -2,7 +2,7 @@
 layout: page
 title: Cassava starch packing improvement with the adaptive palletizing robot system (2019)
 description: Adaptive robotic system for cassava starch packing and palletizing
-img: 
+img:
 importance: 10
 category: work
 owner: Northeastern Starch (1987) Co., Ltd. and TRF

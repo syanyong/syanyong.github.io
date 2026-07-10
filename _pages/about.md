@@ -37,23 +37,24 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- <p>Hello! I'm Sy A. Yanyong, a researcher at the School of Engineering. My work focuses on innovative solutions in engineering and technology. Feel free to reach out to me for collaborations or inquiries.</p> -->
 
 <!-- Assistant Professor<br>-->
+
 Asst. Prof. Dr. Sarucha Yanyong (ผศ.ดร. ศรุชา ยรรยง)<br>
-Assistant Professor, Department of Robotics and AI Engineering,<br> 
+Assistant Professor, Department of Robotics and AI Engineering,<br>
 School of Engineering,<br>
 King Mongkut's Institute of Technology Ladkrabang (KMITL),<br>
 1 Chalong Krung, 1 Alley, Lat Krabang, Bangkok,
 Thailand<br>
 email: sarucha.ya@kmitl.ac.th<br>
 <a href="https://scholar.google.com/citations?user=_sLWkcgAAAAJ&hl=en" target="_blank" title="Google Scholar">
-  <img src="{{ '/assets/img/google-scholar-logo.svg' | relative_url }}" alt="Google Scholar" style="width: 1.2rem; height: 1.2rem; vertical-align: text-bottom;">
+<img src="{{ '/assets/img/google-scholar-logo.svg' | relative_url }}" alt="Google Scholar" style="width: 1.2rem; height: 1.2rem; vertical-align: text-bottom;">
 </a>
 
 ## Biography
 
 Sarucha Yanyong is an Assistant Professor in the Department of Robotics and AI, School of Engineering, King Mongkut's Institute of Technology Ladkrabang (KMITL), having joined the faculty in June 2023. His research focuses on industrial robotics, mobile robotics, and intelligent control. Professionally, he is a software engineering consultant with expertise in deploying IT/OT solutions for automation and intelligent manufacturing. He earned a D.Eng. in Electrical Engineering in 2023, supported by the Thailand Research Fund (TRF) through the Research and Researchers for Industries (RRI) grant, and was a Visiting Research Student at the Multimedia Computing Systems Laboratory (MCSLab), Sungkyunkwan University (SKKU), in Seoul, South Korea. He has five years of experience in railway signaling software development as an Application Engineer at Bombardier Transportation Signal, now part of ALSTOM. He also holds an M.Eng. in Electrical Engineering (2014) and a B.Eng. in Mechatronics Engineering (2012) from KMITL.
 
-
 ## Professional Experience
+
 2026.01 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
 2026.03 – 2026.09: Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Ltd., Teparak Plant, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration)<br>
 2025.09 – 2025.11: Visiting Researcher, Wafer Process Technology Training, Seagate Technology, Springtown Site, Northern Ireland, United Kingdom, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration), Year 1<br>
@@ -67,12 +68,14 @@ Sarucha Yanyong is an Assistant Professor in the Department of Robotics and AI, 
 <br>
 
 ## Education
+
 D.Eng., Electrical Engineering, King Mongkut's Institute of Technology Ladkrabang, 2023<br>
 M.Eng., Electrical Engineering, King Mongkut's Institute of Technology Ladkrabang, 2014<br>
 B.Eng., Mechatronics Engineering, King Mongkut's Institute of Technology Ladkrabang, 2012<br>
 <br>
 
 ## Awards and Scholarships
+
 - [**Won 1st prize**](https://web.archive.org/web/20251010084855/https://www.robocup.or.jp/JapanOpen2024/) <i class="fas fa-external-link-alt"></i> on RoboCup Japan Open 2024, Logistics League.
 - [**Best Paper Award**](https://web.archive.org/web/20260120154927/https://www.iaeng.org/IMECS2023/Best_paper_awards.html) <i class="fas fa-external-link-alt"></i> at The 2023 IAENG International Conference on Electrical Engineering for "A Novel Robust Adaptive Control for PMDC Servo Motor Incorporating Recursive Least Square and Particle Swarm Optimization."
 - Won [**1st prize**](https://web.archive.org/web/20231003184311/https://www.nstda.or.th/home/news_post/pr-nstda-robo-innovator-challenge-2023/) <i class="fas fa-external-link-alt"></i> in the Mobile Robot for Logistics Major League at the Roboinnovator Challenge 2023, Software Park, NSTDA, Thailand. [[News]](https://web.archive.org/web/20230913024517/https://www.matichon.co.th/publicize/news_4174569) <i class="fas fa-external-link-alt"></i>
@@ -92,10 +95,11 @@ Based on my work experience, I invited to work as a **special lecturer at KMITL*
 
 I have several years of experience working as an Application Engineer at **Bombardier Transportation Signal (Thailand) Ltd.**, based in Bangkok, I played a key role in various projects within the company. My responsibilities included developing a site-specific application and automatic software testing framework for Interlocking Software. I also served as the Work Package Leader for the Interlocking Application Development under the <a href="https://en.wikipedia.org/wiki/Cityflo_650_CBTC" target="_blank">CITYFLO650</a> solution moving block for the MRT Purple Line Project in Thailand. In this capacity, I managed the project's budget, supervised team members, and oversaw the verification and validation of safety documents related to software.
 
-In addition to my leadership role, I actively participated in Interlocking Application Development and served as a reviewer. My tasks involved designing applications based on signaling plans and local operation procedures, configuring networks, and conducting safety assessments to ensure compliance with the EN50128 standard for train control systems of several major projects. My skills extend to Unix OS, Red Hat, Ubuntu, CentOS, shell scripting, Python, Jenkins, and GitLab. These projects included the BTS Green Line Extension (CITYFLO450) in Thailand, the Durban Re-signalling (CITYFLO200) in South Africa, and the <a href="https://bombardier.com/en/media/news/bombardier-wins-contract-provide-melbournes-first-high-capacity-signalling-system" target="_blank">Rail Systems Alliance (RSA)</a> CITYFLO650 solution in Melbourne, Australia. 
+In addition to my leadership role, I actively participated in Interlocking Application Development and served as a reviewer. My tasks involved designing applications based on signaling plans and local operation procedures, configuring networks, and conducting safety assessments to ensure compliance with the EN50128 standard for train control systems of several major projects. My skills extend to Unix OS, Red Hat, Ubuntu, CentOS, shell scripting, Python, Jenkins, and GitLab. These projects included the BTS Green Line Extension (CITYFLO450) in Thailand, the Durban Re-signalling (CITYFLO200) in South Africa, and the <a href="https://bombardier.com/en/media/news/bombardier-wins-contract-provide-melbournes-first-high-capacity-signalling-system" target="_blank">Rail Systems Alliance (RSA)</a> CITYFLO650 solution in Melbourne, Australia.
 
 After leaving the railway industry, I decided to take on a new challenge by working on my own projects in the software industry, providing services to large consumer goods production companies such as <a href="https://www.unilever.com/" target="_blank">**Unilever**</a>, <a href="https://www.neo-factory.biz/" target="_blank">**NEO Factory**</a> and etc. I joined a software project team in Foster Engineering Co., Ltd., a company specializing in process control, PLC, and SCADA systems. My role in the company was not permanent, and I worked remotely for some projects because my focus was on software products only. As a **full-stack developer**, I was responsible for creating web-based inventory management with the prediction systems. And also small software for data transformation between applications. Most of the applications I developed were required to interface with SCADA and PLC systems and occasionally receive orders from SAP. Through this job, I gained valuable experience in various technologies, including Microsoft SQL Server, MongoDB, React, NodeJS, Python, Docker, and VMware ESXi.
 <br><br>
 
 ## Selected Publications
+
 {% include selected_papers.liquid %}

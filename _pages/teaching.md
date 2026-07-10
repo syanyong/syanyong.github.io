@@ -23,14 +23,15 @@ nav_order: 6
 - **01416500: COMPUTER VISIONS** (2019-2020)
 
 ## Invited Speaker & Professional Training Experience
+
 - **2026.06** Invited Lecturer, Machine Vision Training, THAI-SMART Triple Helix Project (PMU-B, Seagate, and School of Engineering, KMITL)
-- **2026** Invited Lecturer, *“Predictive Maintenance & Agentic AI”* (3 cohorts: Mar 21-22, Apr 6-7, Apr 29-30), Intelligent Automation Skills Development Project, depa Digital Manpower Fund <a href="{{ '/assets/img/depa_2026.jpg' | relative_url }}" target="_blank" title="View Photo" class="ml-1" style="color: #007bff;"><i class="fas fa-image"></i></a>
+- **2026** Invited Lecturer, _“Predictive Maintenance & Agentic AI”_ (3 cohorts: Mar 21-22, Apr 6-7, Apr 29-30), Intelligent Automation Skills Development Project, depa Digital Manpower Fund <a href="{{ '/assets/img/depa_2026.jpg' | relative_url }}" target="_blank" title="View Photo" class="ml-1" style="color: #007bff;"><i class="fas fa-image"></i></a>
 - **2025** Invited Lecturer, AI/ML Training Program for Machine Learning and Semiconductor Workforce Development (บพค.)
 - **2025** Invited Lecturer, AI/ML and Large Language Models (LLMs), Seagate Technology (Thailand)
-- **2025** Invited Speaker, *“AI Visionaries: Leading the Future of Intelligence for Executive Dialogue”*, Datalytics.ai, Malaysia Digital
-- **2025** Invited Speaker, *“Application of AI and Robotics Tools in Education”*, Coding Thailand Project, Digital Economy Promotion Agency (depa), Lower Northern Region, Phitsanulok
+- **2025** Invited Speaker, _“AI Visionaries: Leading the Future of Intelligence for Executive Dialogue”_, Datalytics.ai, Malaysia Digital
+- **2025** Invited Speaker, _“Application of AI and Robotics Tools in Education”_, Coding Thailand Project, Digital Economy Promotion Agency (depa), Lower Northern Region, Phitsanulok
 - **2025** Invited Lecturer, Mobile Robot Training, ROS Thailand Open
-- **2024** Invited Speaker, Smart City Forum: *Innovative and Livable City for All ( "ตลาดนัดนวัตกรรม 3 มุมเมือง")*, Ministry of Higher Education, Science, Research and Innovation (MHESI) and Bangkok Metropolitan Administration
+- **2024** Invited Speaker, Smart City Forum: _Innovative and Livable City for All ( "ตลาดนัดนวัตกรรม 3 มุมเมือง")_, Ministry of Higher Education, Science, Research and Innovation (MHESI) and Bangkok Metropolitan Administration
 - **2024** Invited Lecturer, Edge AI Workshop, Arduino Day 2024
 - **2024** Invited Lecturer, Autonomous Mobile Robot Fundamentals (Secondary Education Level), Maker Lab, CIC Skill Development and Learning Center, Phuket
 - **2023** Invited Lecturer, Image Processing and AI Training, Provincial Police Region 2

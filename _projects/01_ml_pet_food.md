@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning-Assisted Pet Food Vending Machine (2023 - 2024)
 description: Machine learning-powered automated pet food vending system
-img: 
+img:
 importance: 1
 category: work
 owner: School of Engineering, KMITL

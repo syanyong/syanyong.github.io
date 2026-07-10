@@ -2,7 +2,7 @@
 layout: page
 title: Articulated robot for a car's window drive cable assembly machine (2019)
 description: Industrial articulated robot for automotive cable assembly automation
-img: 
+img:
 importance: 11
 category: work
 owner: Thai Steel Cable PC (TCS) and NSTDA

@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Intelligent Vehicle for cleanroom type (2015 - 2019)
 description: Autonomous intelligent vehicle for cleanroom manufacturing environments
-img: 
+img:
 importance: 12
 category: work
 owner: Seagate Technology (Thailand) Co. Ltd., TRF

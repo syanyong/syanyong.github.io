@@ -2,7 +2,7 @@
 layout: page
 title: Visual inspection system for HSA Metrology (2014)
 description: Machine vision system for hard disk drive head stack assembly inspection
-img: 
+img:
 importance: 13
 category: work
 owner: Seagate Technology (Thailand) Co., Ltd.
