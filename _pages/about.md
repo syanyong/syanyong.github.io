@@ -54,7 +54,7 @@ Sarucha Yanyong is an Assistant Professor in the Department of Robotics and AI, 
 
 
 ## Professional Experience
-2024.10 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
+2026.01 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
 2026.03 – 2026.09: Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Ltd., Teparak Plant, Triple Helix Project (PMU-B & KMITL Collaboration)<br>
 2025.09 – 2025.11: Visiting Researcher, Wafer Process Technology Training, Seagate Technology, Springtown Site, Northern Ireland, United Kingdom, Triple Helix Project (PMU-B & KMITL Collaboration), Year 1<br>
 2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
