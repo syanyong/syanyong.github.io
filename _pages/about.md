@@ -49,10 +49,17 @@ email: sarucha.ya@kmitl.ac.th<br>
 <a href="https://scholar.google.com/citations?user=_sLWkcgAAAAJ&hl=en" target="_blank" title="Google Scholar">
 <img src="{{ '/assets/img/google-scholar-logo.svg' | relative_url }}" alt="Google Scholar" style="width: 1.2rem; height: 1.2rem; vertical-align: text-bottom;">
 </a>
-<a href="{{ '/assets/contact/sarucha-yanyong.vcf' | relative_url }}" download title="Save contact" class="ml-2">
+<button type="button" id="contact-toggle" class="contact-action ml-2" title="Show contact QR code" aria-expanded="false" aria-controls="contact-card">
 <i class="fas fa-address-card" aria-hidden="true"></i>
 <span class="sr-only">Save contact</span>
-</a>
+</button>
+
+<div id="contact-card" class="contact-card" hidden>
+<img src="{{ '/assets/img/site-qr-code.png' | relative_url }}" alt="QR code for syanyong.github.io" width="180" height="180">
+<a href="{{ '/assets/contact/sarucha-yanyong.vcf' | relative_url }}" download>Download contact</a>
+</div>
+
+<script src="{{ '/assets/js/contact-card.js' | relative_url }}"></script>
 
 ## Biography
 
