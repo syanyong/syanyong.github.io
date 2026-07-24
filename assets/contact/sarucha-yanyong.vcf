@@ -1,9 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Sarucha Yanyong
-N:Yanyong;Sarucha;;;
+FN:Sarucha Yanyong (Ph.D.)
+N:Yanyong;Sarucha;;;Ph.D.
 TITLE:Lecturer
-ORG:Department of Robotics and AI;School of Engineering;King Mongkut's Institute of Technology Ladkrabang (KMITL)
+ROLE:Assistant Professor
+ORG:King Mongkut's Institute of Technology Ladkrabang (KMITL);School of Engineering;Department of Robotics and AI
 EMAIL;TYPE=INTERNET:sarucha.ya@kmitl.ac.th
 URL:https://syanyong.github.io/
 ADR;TYPE=WORK:;;1 Chalong Krung 1 Alley;Lat Krabang;Bangkok;;Thailand
