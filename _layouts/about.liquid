@@ -6,6 +6,9 @@ layout: default
     <h1 class="post-title">
       {{ page.subtitle }}
     </h1>
+    {% if page.role %}
+      <p class="desc">{{ page.role }}</p>
+    {% endif %}
     {% comment %}
       <h1 class="post-title">
         {% if site.title == 'blank' %}

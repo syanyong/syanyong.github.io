@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Sarucha Yanyong, Ph.D.
+role: Lecturer
 profile:
   align: right
   image: sy_pic.jpg
@@ -47,6 +48,10 @@ Thailand<br>
 email: sarucha.ya@kmitl.ac.th<br>
 <a href="https://scholar.google.com/citations?user=_sLWkcgAAAAJ&hl=en" target="_blank" title="Google Scholar">
 <img src="{{ '/assets/img/google-scholar-logo.svg' | relative_url }}" alt="Google Scholar" style="width: 1.2rem; height: 1.2rem; vertical-align: text-bottom;">
+</a>
+<a href="{{ '/assets/contact/sarucha-yanyong.vcf' | relative_url }}" download title="Save contact" class="ml-2">
+<i class="fas fa-address-card" aria-hidden="true"></i>
+<span class="sr-only">Save contact</span>
 </a>
 
 ## Biography
