@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const t=document.getElementById("contact-toggle"),e=document.getElementById("contact-card");t&&e&&t.addEventListener("click",()=>{const d="true"===t.getAttribute("aria-expanded");t.setAttribute("aria-expanded",String(!d)),t.setAttribute("title",d?"Show contact QR code":"Hide contact QR code"),e.hidden=d})});
