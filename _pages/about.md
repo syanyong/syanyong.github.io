@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Sarucha Yanyong, Ph.D.
-role: Lecturer
+role: Faculty Role: Lecturer
 profile:
   align: right
   image: sy_pic.jpg
@@ -39,10 +39,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- Assistant Professor<br>-->
 
-Asst. Prof. Dr. Sarucha Yanyong (ผศ.ดร. ศรุชา ยรรยง)<br>
-Assistant Professor, Department of Robotics and AI Engineering,<br>
-School of Engineering,<br>
-King Mongkut's Institute of Technology Ladkrabang (KMITL),<br>
+Academic Position: Assistant Professor<br>
+Department: Robotics and AI Engineering<br>
+School of Engineering, King Mongkut's Institute of Technology Ladkrabang (KMITL)<br>
 1 Chalong Krung, 1 Alley, Lat Krabang, Bangkok,
 Thailand<br>
 email: sarucha.ya@kmitl.ac.th<br>
