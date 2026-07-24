@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Sarucha Yanyong, Ph.D.
-role: Faculty Role: Lecturer
+role: "Faculty Role: Lecturer"
 profile:
   align: right
   image: sy_pic.jpg
