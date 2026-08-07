@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-07'
 papers:
   _sLWkcgAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: Localization for Outdoor Mobile Robot Using LiDAR and RTK-GNSS/INS.
     year: '2024'
   _sLWkcgAAAAJ:Y0pCki6q_DkC:
-    citations: 2
+    citations: 3
     title: Hybrid Deep Learning and FAST--BRISK 3D Object Detection Technique for Bin-picking Application.
     year: '2024'
   _sLWkcgAAAAJ:_FxGoFyzp5QC:
@@ -41,6 +41,10 @@ papers:
     citations: 9
     title: Experimental realization of PSO-based hybrid adaptive sliding mode control for force impedance control systems
     year: '2025'
+  _sLWkcgAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: A Bayesian-Optimized Deep Scaled Stacking Framework for Data-Driven Intelligent Control in Continuous Oil Refining Process
+    year: '2026'
   _sLWkcgAAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: Hybrid adaptive impedance force controller using bang-bang and Particle Swarm Optimization approaches
