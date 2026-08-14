@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-14'
 papers:
   _sLWkcgAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: PSO based Adaptive Force Controller
     year: '2013'
   _sLWkcgAAAAJ:eQOLeE2rZwMC:
-    citations: 9
+    citations: 10
     title: Experimental realization of PSO-based hybrid adaptive sliding mode control for force impedance control systems
     year: '2025'
   _sLWkcgAAAAJ:roLk4NBRz8UC:
