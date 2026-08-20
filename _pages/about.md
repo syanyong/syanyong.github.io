@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Sarucha Yanyong, Ph.D.
-role: "Faculty Role: Lecturer"
+role: "ผศ.ดร.ศรุชา ยรรยง"
 profile:
   align: right
   image: sy_pic.jpg
@@ -39,8 +39,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- Assistant Professor<br>-->
 
+Faculty Role: Lecturer<br>
 Academic Position: Assistant Professor<br>
-Department: Robotics and AI Engineering<br>
+Department of Robotics and AI Engineering,<br>
 School of Engineering, King Mongkut's Institute of Technology Ladkrabang (KMITL)<br>
 1 Chalong Krung, 1 Alley, Lat Krabang, Bangkok,
 Thailand<br>
@@ -72,7 +73,6 @@ Sarucha Yanyong received the B.Eng. degree in mechatronics engineering and the M
 2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
 2023.01 – 2023.03: Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank">**MCSLab**</a>)<br>
 2019.08 – 2022.12: Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang<br>
-2019.06 – 2021.11: Software Engineer, Foster Engineering Co., Ltd. (Remote Project-Based Role)<br>
 2014.10 – 2019.03: Application Engineer, Bombardier Transportation Signal (Thailand) Limited<br>
 2012.03 – 2014.08: Research Assistant, Control system and Reseach Unit, KMITL & Seagate Technology<br>
 2011.03 – 2011.06: Engineering Intern, Seagate Technology Thailand (Teparak Plant)
