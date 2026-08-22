@@ -63,19 +63,19 @@ email: sarucha.ya@kmitl.ac.th<br>
 
 ## Biography
 
-Sarucha Yanyong received the B.Eng. degree in mechatronics engineering, and the M.Eng. and D.Eng. degrees in electrical engineering from King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, in 2012, 2014, and 2023, respectively. His doctoral research was supported by the Thailand Research Fund (TRF) and Seagate Technology (Thailand) Co., Ltd. through the Research and Researchers for Industries (RRI) grant, during which he also served as a Visiting Research Student with the Multimedia Computing Systems Laboratory (MCSLab) at Sungkyunkwan University, Seoul, South Korea. Before returning to academia, he gained extensive industrial experience from 2014 to 2019 as an Application Engineer with Bombardier Transportation Signal (now ALSTOM), specializing in railway signaling software. He is currently an Assistant Professor with the Department of Robotics and AI, School of Engineering, KMITL. His research interests include intelligent control, human-robot interaction, mobile robotics, and control systems.
+Sarucha Yanyong received the B.Eng. degree in mechatronics engineering, and the M.Eng. and D.Eng. degrees in electrical engineering from King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, in 2012, 2014, and 2023, respectively. His doctoral research was supported by the Thailand Research Fund (TRF) and Seagate Technology through the Research and Researchers for Industries (RRI) grant, during which he also served as a Visiting Research Student with the Multimedia Computing Systems Laboratory (MCSLab) at Sungkyunkwan University, Seoul, South Korea. From 2014 to 2019, before returning to academia, he gained extensive industrial experience as an Interlocking (IXL) Systems Application Design Engineer in the railway signaling industry with Bombardier Transportation Signal (now ALSTOM). He is currently an Assistant Professor with the Department of Robotics and AI, School of Engineering, KMITL. His research interests include data-driven intelligent control, human-robot interaction, mobile robotics, and control systems.
 
 ## Professional Experience
 
 2026.01 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
-2026.03 – 2026.09: Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Ltd., Teparak Plant, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration)<br>
+2026.03 – 2026.09: Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Co., Ltd., Teparak Plant, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration)<br>
 2025.09 – 2025.11: Visiting Researcher, Wafer Process Technology Training, Seagate Technology, Springtown Site, Northern Ireland, United Kingdom, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration), Year 1<br>
 2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
 2023.01 – 2023.03: Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank">**MCSLab**</a>)<br>
 2019.08 – 2022.12: Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang<br>
-2014.10 – 2019.03: Application Engineer, Bombardier Transportation Signal (Thailand) Limited<br>
+2014.10 – 2019.03: Application Design Engineer, Interlocking (IXL) Systems, Bombardier Transportation Signal (Thailand) Limited (Now ALSTOM)<br>
 2012.03 – 2014.08: Research Assistant, Control system and Reseach Unit, KMITL & Seagate Technology<br>
-2011.03 – 2011.06: Engineering Intern, Seagate Technology Thailand (Teparak Plant)
+2011.03 – 2011.06: Engineering Intern, Seagate Technology (Thailand) Co., Ltd.
 <br>
 
 ## Education
