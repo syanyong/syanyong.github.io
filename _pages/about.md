@@ -67,16 +67,19 @@ Sarucha Yanyong received the B.Eng. degree in mechatronics engineering, and the 
 
 ## Professional Experience
 
-2026.01 – Present: Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL<br>
-2026.03 – 2026.09: Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Co., Ltd., Teparak Plant, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration)<br>
-2025.09 – 2025.11: Visiting Researcher, Wafer Process Technology Training, Seagate Technology, Springtown Site, Northern Ireland, United Kingdom, Triple Helix Project (PMU-B & Seagate & KMITL Collaboration), Year 1<br>
-2023.06 – 2024.10: Full-time lecturer, Department of Robotics and AI, School of Engineering, KMITL<br>
-2023.01 – 2023.03: Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank">**MCSLab**</a>)<br>
-2019.08 – 2022.12: Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang<br>
-2014.10 – 2019.03: Application Design Engineer, Interlocking (IXL) Systems, Bombardier Transportation Signal (Thailand) Limited (Now ALSTOM)<br>
-2012.03 – 2014.08: Research Assistant, Control system and Reseach Unit, KMITL & Seagate Technology<br>
-2011.03 – 2011.06: Engineering Intern, Seagate Technology (Thailand) Co., Ltd.
-<br>
+<table>
+<tbody>
+<tr><td style="white-space: nowrap; vertical-align: top;">2026.01 – Present</td><td>Assistant Professor, Department of Robotics and AI, School of Engineering, KMITL</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2026.03 – 2026.09</td><td>Industrial Consultant (Agentic AI Systems), Seagate Technology (Thailand) Co., Ltd., Teparak Plant, Triple Helix Project (PMU-B &amp; Seagate &amp; KMITL Collaboration)</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2025.09 – 2025.11</td><td>Visiting Researcher, Wafer Process Technology Training, Seagate Technology, Springtown Site, Northern Ireland, United Kingdom, Triple Helix Project (PMU-B &amp; Seagate &amp; KMITL Collaboration), Year 1</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2023.06 – 2024.10</td><td>Full-time Lecturer, Department of Robotics and AI, School of Engineering, KMITL</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2023.01 – 2023.03</td><td>Visiting Research Student, Sungkyunkwan University (SKKU), Seoul, Republic of Korea, Multimedia Computing Systems Laboratory (<a href="http://mcsl.skku.edu/" target="_blank"><strong>MCSLab</strong></a>)</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2019.08 – 2022.12</td><td>Adjunct Lecturer, King Mongkut's Institute of Technology Ladkrabang</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2014.10 – 2019.03</td><td>Application Design Engineer, Interlocking (IXL) Systems, Bombardier Transportation Signal (Thailand) Limited (Now ALSTOM)</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2012.03 – 2014.08</td><td>Research Assistant, Control System and Research Unit, KMITL &amp; Seagate Technology</td></tr>
+<tr><td style="white-space: nowrap; vertical-align: top;">2011.03 – 2011.06</td><td>Engineering Intern, Seagate Technology (Thailand) Co., Ltd.</td></tr>
+</tbody>
+</table>
 
 ## Education
 
